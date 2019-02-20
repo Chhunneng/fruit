@@ -4,3 +4,6 @@ mango
 banana
 kiwi
 logan
+grape
+pear
+peach
